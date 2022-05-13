@@ -12,5 +12,10 @@
 
 > DbgModBaseFromName [`获取指定模块名的基址`]
 
+## Q&A
+> Q. 为什么要写这个文档 
+
+> A. X64DBG原始的插件API文档万年不更新，至今停留在0.1版，想要点关键内容，没有╰(艹皿艹 )
+
 ## LICENSE
 MIT license. See LICENSE for details.
